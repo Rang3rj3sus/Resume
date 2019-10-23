@@ -1,2 +1,2 @@
-# Resume
-These are programs I have made as I progress to hopefully become a software developer!
+# My Programs :)
+These are some programs displaying my progress as a developer!
